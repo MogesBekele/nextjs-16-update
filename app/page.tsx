@@ -12,10 +12,7 @@ export default function HomePage(){
           with tailwind css
         </h2>
     </div>
-
     
-
-
     </div>
   )
 }
