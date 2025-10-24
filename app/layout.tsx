@@ -27,6 +27,7 @@ export default function RootLayout({
   //router.refresh();
   //for the server side
   // use cache for ppr 
+  // react compiler support 
   return (
     <html lang="en">
       <body
