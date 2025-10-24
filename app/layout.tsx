@@ -33,6 +33,7 @@ export default function RootLayout({
   // support activity feature
   // require node.js 20
   // support node.js 20 features and optimizations
+  // updatetag for server actions
   return (
     <html lang="en">
       <body
