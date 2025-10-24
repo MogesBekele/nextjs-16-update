@@ -26,6 +26,7 @@ export default function RootLayout({
   //refreth() ui
   //router.refresh();
   //for the server side
+  // use cache for ppr 
   return (
     <html lang="en">
       <body
