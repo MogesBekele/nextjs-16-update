@@ -32,6 +32,7 @@ export default function RootLayout({
   //support react 19.2
   // support activity feature
   // require node.js 20
+  // support node.js 20 features and optimizations
   return (
     <html lang="en">
       <body
