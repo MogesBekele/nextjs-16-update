@@ -34,6 +34,7 @@ export default function RootLayout({
   // require node.js 20
   // support node.js 20 features and optimizations
   // updatetag for server actions
+  // turbapack is the default bundier
   return (
     <html lang="en">
       <body
