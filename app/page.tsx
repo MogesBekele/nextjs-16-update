@@ -6,7 +6,6 @@ export default function HomePage(){
         new next js 16 update
       </h1>
     <div>
-
       <div className="flex items-center justify-center my-auto text-blue-600"></div>
         <h2>
           with tailwind css
