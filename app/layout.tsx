@@ -39,6 +39,7 @@ export default function RootLayout({
   //improved error handling and debugging
   // replace the middleware with proxy
   // proxy the different ui from middileware
+  //data access api layer for all the data fetching lonic
 
   return (
     <html lang="en">
