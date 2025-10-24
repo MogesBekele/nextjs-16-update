@@ -37,7 +37,8 @@ export default function RootLayout({
   // turbapack is the default bundlier
   // faster builds and hot module replacement (HMR)
   //improved error handling and debugging
-  
+  // replace the middleware with proxy
+
   return (
     <html lang="en">
       <body
