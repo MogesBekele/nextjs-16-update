@@ -31,6 +31,7 @@ export default function RootLayout({
   // updatepath to update the data fetching on the server side
   //support react 19.2
   // support activity feature
+  //
   return (
     <html lang="en">
       <body
