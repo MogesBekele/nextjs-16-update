@@ -36,6 +36,8 @@ export default function RootLayout({
   // updatetag for server actions
   // turbapack is the default bundlier
   // faster builds and hot module replacement (HMR)
+  //improved error handling and debugging
+  
   return (
     <html lang="en">
       <body
