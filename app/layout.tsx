@@ -28,6 +28,7 @@ export default function RootLayout({
   //for the server side
   // use cache for ppr 
   // react compiler support 
+  // updatepath to update the data fetching on the server side
   return (
     <html lang="en">
       <body
