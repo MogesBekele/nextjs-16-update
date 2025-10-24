@@ -29,6 +29,7 @@ export default function RootLayout({
   // use cache for ppr 
   // react compiler support 
   // updatepath to update the data fetching on the server side
+  //support react 19.2
   return (
     <html lang="en">
       <body
