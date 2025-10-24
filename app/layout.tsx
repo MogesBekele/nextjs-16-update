@@ -25,6 +25,7 @@ export default function RootLayout({
 
   //refreth() ui
   //router.refresh();
+  //for the server side
   return (
     <html lang="en">
       <body
