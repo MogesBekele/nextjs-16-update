@@ -38,6 +38,7 @@ export default function RootLayout({
   // faster builds and hot module replacement (HMR)
   //improved error handling and debugging
   // replace the middleware with proxy
+  // proxy the different ui from middileware
 
   return (
     <html lang="en">
