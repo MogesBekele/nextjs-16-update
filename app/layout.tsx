@@ -22,6 +22,9 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+
+  //refreth() ui
+  //router.refresh();
   return (
     <html lang="en">
       <body
