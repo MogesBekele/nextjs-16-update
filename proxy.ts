@@ -13,6 +13,8 @@ export function proxy(req: Request) {
 // enhanced routing capabilities
 // build adapters for different environments
 // stable turbopack support
+// proxy allows you to run code before a request is completed
+
 
   return NextResponse.next();
 }
