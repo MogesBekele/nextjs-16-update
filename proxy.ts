@@ -10,7 +10,7 @@ export function proxy(req: Request) {
   // the down side for data access is the page render dynacmically
 // for this case the proxy is an option
 // middleware is replaced with proxy
-//
+// enhanced routing capabilities
 
   return NextResponse.next();
 }
