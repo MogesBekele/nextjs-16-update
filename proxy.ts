@@ -9,6 +9,8 @@ export function proxy(req: Request) {
   //  also use coodies and header
   // the down side for data access is the page render dynacmically
 // for this case the proxy is an option
+// middleware is replaced with proxy
+//
 
   return NextResponse.next();
 }
