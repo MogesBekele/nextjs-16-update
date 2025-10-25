@@ -7,6 +7,7 @@ export function proxy(req: Request) {
   // use kinde for autentication and authorization
   // data access layer if the default
   //  also use coodies and header
+  // the down side for data access is the page render dynacmically
 
 
   return NextResponse.next();
