@@ -2,7 +2,8 @@ import { NextResponse } from "next/server";
 
 
 
-export function proxy(){
+export function proxy(req: Request){
+  return withAuth(req)
   
 //autentecation for the api
 // jwt is not recommeneded
@@ -15,5 +16,5 @@ export function proxy(){
 }
 
 export const config = {
-  matcher: "/"
+  matcher: ["/", "/others"]
 }
