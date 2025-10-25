@@ -5,8 +5,9 @@ export function proxy(req: Request) {
   // jwt is not recommeneded
   // autenticate with kinde third party service
   // use kinde for autentication and authorization
-  //
+  // data access layer if the default
 
+  
   return NextResponse.next();
 }
 
