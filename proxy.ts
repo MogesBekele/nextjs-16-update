@@ -6,6 +6,7 @@ export function proxy(){
   
 //autentecation for the api
 // jwt is not recommeneded
+// autenticate with kinde third party service 
 
 
   
