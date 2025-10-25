@@ -12,7 +12,7 @@ export function proxy(req: Request) {
 // middleware is replaced with proxy
 // enhanced routing capabilities
 // build adapters for different environments
-//
+// stable turbopack support
 
   return NextResponse.next();
 }
