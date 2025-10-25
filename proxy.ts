@@ -7,6 +7,7 @@ export function proxy(){
 //autentecation for the api
 // jwt is not recommeneded
 
+
   
   return NextResponse.next();
 }
