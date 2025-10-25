@@ -11,6 +11,8 @@ export function proxy(req: Request) {
 // for this case the proxy is an option
 // middleware is replaced with proxy
 // enhanced routing capabilities
+// build adapters for different environments
+//
 
   return NextResponse.next();
 }
