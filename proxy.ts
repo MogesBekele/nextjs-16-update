@@ -14,6 +14,7 @@ export function proxy(req: Request) {
 // build adapters for different environments
 // stable turbopack support
 // proxy allows you to run code before a request is completed
+// proxy not good for data fetching and session managment
 
 
   return NextResponse.next();
