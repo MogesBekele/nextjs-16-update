@@ -41,6 +41,8 @@ export default function RootLayout({
   // proxy the different ui from middileware
   //data access api layer for all the data fetching lonic
   // use cache directive
+  //end of middleware
+  //
 
   return (
     <html lang="en">
