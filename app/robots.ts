@@ -16,7 +16,13 @@ export default function robots(): MetadataRoute.Robots {
         allow: "/",
         disallow: "/sensetive-data",
       },
+      {
+        userAgent: "bingbot",
+        allow: "/",
+        disallow: "/sencetive-data",
+      },
     ],
     sitemap: "https://www.example.com/sitemap.xml",
   };
+
 }
