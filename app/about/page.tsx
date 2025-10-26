@@ -42,7 +42,7 @@ export const metadata = {
 // }
 export default function AboutPage() {
   return (
-    <div>
+    <div className=" flex justify-center">
       <h1>this is about page on client side</h1>
     </div>
   );
