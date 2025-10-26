@@ -36,6 +36,7 @@ export const metadata = {
  
 // export async function generateMetadata({params}:{params: {id:string}}){
   
+//
 // }
 export default function AboutPage() {
   return (
