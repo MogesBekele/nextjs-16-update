@@ -17,5 +17,7 @@ export default function robots(): MetadataRoute.Robots {
         disallow: "/sensetive-data",
       },
     ],
-  };
+    sitemap: "https://www.example.com/sitemap.xml",
+  }
+  
 }
