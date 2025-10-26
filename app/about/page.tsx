@@ -1,3 +1,4 @@
+
 export const metadata = {
   title: "About page",
   description: "this is about page description for seo",
@@ -33,9 +34,9 @@ export const metadata = {
 };
 // then dynamic metadata
  
-export async function generateMetadata({params}:{params: {id:string}}){
+// export async function generateMetadata({params}:{params: {id:string}}){
   
-}
+// }
 export default function AboutPage() {
   return (
     <div>
