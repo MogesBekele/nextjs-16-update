@@ -16,7 +16,7 @@ export function proxy(req: Request) {
 // proxy allows you to run code before a request is completed
 // proxy not good for data fetching and session managment
 // build in mcp server 
-
+// server side rendering for seo
   return NextResponse.next();
 }
 
