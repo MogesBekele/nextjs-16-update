@@ -1,7 +1,8 @@
 
 export const metadata = {
   title: "About page",
-  description: "this is about page description for seo"
+  description: "this is about page description for seo",
+  keywords: "different keywork to describe the page"
 }
 export default function AboutPage(){
   return (
