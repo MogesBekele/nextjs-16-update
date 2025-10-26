@@ -18,6 +18,5 @@ export default function robots(): MetadataRoute.Robots {
       },
     ],
     sitemap: "https://www.example.com/sitemap.xml",
-  }
-  
+  };
 }
