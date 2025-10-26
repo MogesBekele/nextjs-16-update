@@ -15,23 +15,23 @@ export const metadata = {
       },
     ],
   },
-  twitter:{
+  twitter: {
     card: "summary large image",
     title: "About page",
-    description:"master metadata for robots and social media",
+    description: "master metadata for robots and social media",
     images: ["https://www.example.com/twitter-image.png"],
   },
-  robots:{
+  robots: {
     index: true,
     follow: true,
     nocache: true,
-    googleBot:{
-      index:true,
-      follow:true,
-    }
-    
-  }
+    googleBot: {
+      index: true,
+      follow: true,
+    },
+  },
 };
+// then dynamic metadata
 export default function AboutPage() {
   return (
     <div>
