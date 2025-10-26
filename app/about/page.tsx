@@ -13,7 +13,24 @@ export const metadata = {
         width: 800,
         height: 600,
       },
-  ]}
+    ],
+  },
+  twitter:{
+    card: "summary large image",
+    title: "About page",
+    description:"master metadata for robots and social media",
+    images: ["https://www.example.com/twitter-image.png"],
+  },
+  robots:{
+    index: true,
+    follow: true,
+    nocache: true,
+    googleBot:{
+      index:true,
+      follow:true,
+    }
+    
+  }
 };
 export default function AboutPage() {
   return (
