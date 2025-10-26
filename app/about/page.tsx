@@ -37,7 +37,9 @@ export const metadata = {
 // export async function generateMetadata({params}:{params: {id:string}}){
   
 //
-// generate dynamic metadata based on params or data fetching }
+// generate dynamic metadata based on params or data fetching
+
+// }
 export default function AboutPage() {
   return (
     <div>
