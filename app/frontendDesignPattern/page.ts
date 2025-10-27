@@ -20,4 +20,5 @@
 //critical css
 //Critical CSS is a web performance optimization technique that involves extracting and inlining the CSS required to render the above-the-fold content of a webpage. By doing so, it allows the browser to render the initial view of the page more quickly, improving perceived load times and overall user experience.
 
-
+//essential state
+//Essential state refers to the minimal set of data that is necessary to represent the current condition or status of an application or system. This state is crucial for the proper functioning and behavior of the application, as it determines how the application responds to user interactions and other events.
