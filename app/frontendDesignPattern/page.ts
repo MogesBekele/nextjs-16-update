@@ -22,3 +22,4 @@
 
 //essential state
 //Essential state refers to the minimal set of data that is necessary to represent the current condition or status of an application or system. This state is crucial for the proper functioning and behavior of the application, as it determines how the application responds to user interactions and other events.
+
