@@ -30,6 +30,9 @@
 //windowing
 //Windowing is a technique used in computer science and user interface design to manage and display large sets of data or content by dividing it into smaller, more manageable sections or "windows." This approach helps improve performance and usability by only rendering and displaying the visible portion of the data at any given time, rather than loading the entire dataset all at once.
 
+//server side rendering 
+//Server-side rendering (SSR) is a web development technique where web pages are generated on the server rather than in the browser. In SSR, the server processes the request, fetches the necessary data, and compiles the HTML content before sending it to the client's browser. This approach can improve performance, SEO, and initial load times, as users receive a fully rendered page instead of waiting for JavaScript to execute on the client side.
+
 
 
 
