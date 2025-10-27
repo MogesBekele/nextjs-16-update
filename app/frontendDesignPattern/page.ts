@@ -8,3 +8,6 @@
 //content negotiation with the client
 //content negotiation is a mechanism that makes it possible to serve different versions of a document (or more generally, a resource) at the same URI, so that user agents can specify which version fits their capabilities the best.
 
+//lazy loading design pattern
+//lazy loading is a design pattern commonly used in computer programming to defer initialization of an object until the point at which it is needed. It can contribute to efficiency in the program's operation if properly and appropriately used.
+
