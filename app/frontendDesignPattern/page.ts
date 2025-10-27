@@ -25,3 +25,12 @@
 
 //reduser pattern
 //The reducer pattern is a design pattern commonly used in functional programming and state management libraries (like Redux) to manage and update the state of an application in a predictable way. A reducer is a pure function that takes the current state and an action as arguments, and returns a new state based on the action type and payload.
+
+
+//windowing
+//Windowing is a technique used in computer science and user interface design to manage and display large sets of data or content by dividing it into smaller, more manageable sections or "windows." This approach helps improve performance and usability by only rendering and displaying the visible portion of the data at any given time, rather than loading the entire dataset all at once.
+
+
+
+
+
