@@ -15,3 +15,4 @@
 //bundle splitting is a technique used in web development to optimize the loading of JavaScript files by breaking them into smaller, more manageable pieces (or "bundles"). This allows for faster initial load times and improved performance, as only the necessary code is loaded when needed.
 
 
+//think in systems components and relationships rathen than memorising separate concepts
