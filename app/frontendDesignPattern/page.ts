@@ -39,3 +39,8 @@
 //Partial pre-rendering is a web development technique where only specific parts or components of a web page are pre-rendered on the server, while other parts are rendered on the client side. This approach allows for faster initial load times and improved performance, as critical content can be delivered quickly, while less important or dynamic content can be loaded asynchronously.
 
 
+
+//server side component tree
+//A server-side component tree is a hierarchical structure of components that are rendered on the server before being sent to the client's browser. In this approach, the server generates the complete HTML markup for the component tree, which can include nested components, and sends it to the client for display. This technique can improve performance, SEO, and initial load times, as users receive a fully rendered page without relying on client-side JavaScript execution.
+
+
