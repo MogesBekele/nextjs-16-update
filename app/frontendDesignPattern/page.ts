@@ -44,3 +44,5 @@
 //A server-side component tree is a hierarchical structure of components that are rendered on the server before being sent to the client's browser. In this approach, the server generates the complete HTML markup for the component tree, which can include nested components, and sends it to the client for display. This technique can improve performance, SEO, and initial load times, as users receive a fully rendered page without relying on client-side JavaScript execution.
 
 
+//micro frontends
+//Micro frontends is an architectural style where a web application is composed of smaller, independent frontend applications (or "micro frontends") that can be developed, deployed, and maintained separately. Each micro frontend is responsible for a specific feature or functionality of the overall application, allowing for greater flexibility, scalability, and team autonomy in the development process.
