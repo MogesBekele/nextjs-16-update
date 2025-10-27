@@ -16,3 +16,8 @@
 
 
 //think in systems components and relationships rathen than memorising separate concepts
+
+//critical css
+//Critical CSS is a web performance optimization technique that involves extracting and inlining the CSS required to render the above-the-fold content of a webpage. By doing so, it allows the browser to render the initial view of the page more quickly, improving perceived load times and overall user experience.
+
+
