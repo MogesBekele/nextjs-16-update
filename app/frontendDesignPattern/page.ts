@@ -35,6 +35,7 @@
 
 
 
-
+//partial pre-rendering
+//Partial pre-rendering is a web development technique where only specific parts or components of a web page are pre-rendered on the server, while other parts are rendered on the client side. This approach allows for faster initial load times and improved performance, as critical content can be delivered quickly, while less important or dynamic content can be loaded asynchronously.
 
 
