@@ -46,3 +46,10 @@
 
 //micro frontends
 //Micro frontends is an architectural style where a web application is composed of smaller, independent frontend applications (or "micro frontends") that can be developed, deployed, and maintained separately. Each micro frontend is responsible for a specific feature or functionality of the overall application, allowing for greater flexibility, scalability, and team autonomy in the development process.
+
+//simplecilty in design patteren
+
+
+
+
+
