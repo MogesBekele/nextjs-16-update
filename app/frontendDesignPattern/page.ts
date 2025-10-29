@@ -52,6 +52,10 @@
 // idea is to keep things simple and avoid overcomplicating the design patterns used in frontend development. Simple design patterns are easier to understand, maintain, and scale, which ultimately leads to better performance and user experience. By focusing on simplicity, developers can create more efficient and effective solutions that meet the needs of users without unnecessary complexity.
 
 
+//example of simple design pattern: component-based architecture
+//Component-based architecture is a design pattern that involves breaking down a user interface into smaller, reusable components. Each component is responsible for a specific piece of functionality or UI element, and can be easily combined with other components to create a complete application. This approach promotes code reusability, maintainability, and scalability, making it easier to manage complex frontend applications.
+
+
 
 
 
