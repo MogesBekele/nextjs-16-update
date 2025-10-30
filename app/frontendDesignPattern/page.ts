@@ -71,4 +71,16 @@
 // ai coding
 // ai coding is becoming more prevalent in the job market, with companies looking for developers who can work with AI technologies and integrate them into their applications. AI coding involves using machine learning algorithms and other AI techniques to create intelligent applications that can learn and adapt over time. Developers who have experience with AI coding may have an advantage in the job market, as this is a rapidly growing field with many opportunities for innovation and growth.
 
-// 
+// code is still king
+
+// despite the rise of ai coding, code is still king in the job market. Companies are looking for developers who can write clean, efficient, and maintainable code that meets the needs of their applications. While AI technologies can help automate certain aspects of coding, they cannot replace the creativity and problem-solving skills that human developers bring to the table. Therefore, developers who can write high-quality code will continue to be in demand in the job market.
+
+//the teck stack matters
+
+// the tech stack matters in the job market, as companies often look for developers who have experience with specific technologies and frameworks. Developers who are proficient in popular tech stacks such as React, Node.js, and Python may have an advantage in the job market, as these technologies are widely used in web development. However, it's also important for developers to be adaptable and willing to learn new technologies as the industry evolves.
+
+
+//burnout is the your greatest enemy
+
+// burnout is a significant challenge in the job market, particularly for developers who work in high-pressure environments or have demanding workloads. Burnout can lead to decreased productivity, creativity, and job satisfaction, which can ultimately impact a developer's career growth and opportunities. To avoid burnout, developers should prioritize self-care, set realistic goals, and maintain a healthy work-life balance. Employers can also play a role in preventing burnout by fostering a supportive work environment and promoting employee well-being.
+
