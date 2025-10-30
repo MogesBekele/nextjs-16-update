@@ -59,3 +59,16 @@
 
 
 
+// the truth about current job market
+
+//most of the job are senior level enginner
+//most of the job are for senior level engineers with 5+ years of experience. This is because companies are looking for experienced developers who can hit the ground running and contribute to the team immediately. Junior developers may find it challenging to secure a job in such a competitive market, but there are still opportunities available for those who are willing to put in the effort to gain experience and build their skills.
+
+//demand for fullstack developers
+// there is a high demand for fullstack developers who can work on both the frontend and backend of web applications. Companies are looking for developers who have a broad range of skills and can handle multiple aspects of the development process. Fullstack developers are often seen as more valuable to companies because they can contribute to different parts of the application and help bridge the gap between frontend and backend teams.
+
+
+// ai coding
+// ai coding is becoming more prevalent in the job market, with companies looking for developers who can work with AI technologies and integrate them into their applications. AI coding involves using machine learning algorithms and other AI techniques to create intelligent applications that can learn and adapt over time. Developers who have experience with AI coding may have an advantage in the job market, as this is a rapidly growing field with many opportunities for innovation and growth.
+
+// 
