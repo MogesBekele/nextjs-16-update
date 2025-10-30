@@ -84,3 +84,5 @@
 
 // burnout is a significant challenge in the job market, particularly for developers who work in high-pressure environments or have demanding workloads. Burnout can lead to decreased productivity, creativity, and job satisfaction, which can ultimately impact a developer's career growth and opportunities. To avoid burnout, developers should prioritize self-care, set realistic goals, and maintain a healthy work-life balance. Employers can also play a role in preventing burnout by fostering a supportive work environment and promoting employee well-being.
 
+
+
