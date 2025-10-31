@@ -11,6 +11,7 @@
 //lazy loading design pattern
 //lazy loading is a design pattern commonly used in computer programming to defer initialization of an object until the point at which it is needed. It can contribute to efficiency in the program's operation if properly and appropriately used.
 
+
 //bundle splitting
 //bundle splitting is a technique used in web development to optimize the loading of JavaScript files by breaking them into smaller, more manageable pieces (or "bundles"). This allows for faster initial load times and improved performance, as only the necessary code is loaded when needed.
 
