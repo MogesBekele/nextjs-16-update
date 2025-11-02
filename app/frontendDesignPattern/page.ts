@@ -26,6 +26,7 @@
 //Essential state refers to the minimal set of data that is necessary to represent the current condition or status of an application or system. This state is crucial for the proper functioning and behavior of the application, as it determines how the application responds to user interactions and other events.
 
 //reduser pattern
+
 //The reducer pattern is a design pattern commonly used in functional programming and state management libraries (like Redux) to manage and update the state of an application in a predictable way. A reducer is a pure function that takes the current state and an action as arguments, and returns a new state based on the action type and payload.
 
 
