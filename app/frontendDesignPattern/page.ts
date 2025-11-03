@@ -65,7 +65,8 @@
 
 
 
-
+//use workflows
+// Workflows are a series of steps or processes that are followed to complete a specific task or achieve a particular goal. In the context of frontend development, workflows can refer to the various stages involved in designing, developing, testing, and deploying web applications. By establishing clear workflows, developers can streamline their processes, improve collaboration, and ensure that projects are completed efficiently and effectively.
 
 // the truth about current job market
 
