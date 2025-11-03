@@ -50,6 +50,9 @@
 //micro frontends
 //Micro frontends is an architectural style where a web application is composed of smaller, independent frontend applications (or "micro frontends") that can be developed, deployed, and maintained separately. Each micro frontend is responsible for a specific feature or functionality of the overall application, allowing for greater flexibility, scalability, and team autonomy in the development process.
 
+
+//faster production buuilds
+
 //simplecilty in design pattern
 
 // idea is to keep things simple and avoid overcomplicating the design patterns used in frontend development. Simple design patterns are easier to understand, maintain, and scale, which ultimately leads to better performance and user experience. By focusing on simplicity, developers can create more efficient and effective solutions that meet the needs of users without unnecessary complexity.
