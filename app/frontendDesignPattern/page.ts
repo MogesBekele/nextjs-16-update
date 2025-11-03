@@ -53,6 +53,8 @@
 
 //faster production buuilds
 
+//Faster production builds refer to the optimization of the build process for web applications, aiming to reduce the time it takes to compile and package the application for deployment. This can be achieved through various techniques, such as code splitting, caching, parallel processing, and using efficient build tools and configurations. Faster production builds lead to improved developer productivity and quicker release cycles, allowing teams to deliver updates and new features to users more rapidly.
+
 //simplecilty in design pattern
 
 // idea is to keep things simple and avoid overcomplicating the design patterns used in frontend development. Simple design patterns are easier to understand, maintain, and scale, which ultimately leads to better performance and user experience. By focusing on simplicity, developers can create more efficient and effective solutions that meet the needs of users without unnecessary complexity.
